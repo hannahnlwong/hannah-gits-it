@@ -1,6 +1,6 @@
 # My First Command Line Project
 
-I love git
+I love git and HackerYou
 
 We love lola
 
